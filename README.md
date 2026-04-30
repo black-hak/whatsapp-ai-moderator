@@ -18,9 +18,9 @@
 ## 🎯 The Problem
 
 WhatsApp community groups get flooded with:
-- 💸 Remittance & money transfer ads (*"Remesas Venezuela–Brasil, mejor tasa"*)
-- 👟 Product sales (*"Vendo zapatos importados, contactame"*)
-- ✈️ Flight tickets & tours (*"Pasajes Caracas–Miami, precio especial"*)
+- 💸 Remittance & money transfer ads 
+- 👟 Product sales 
+- ✈️ Flight tickets & tours
 - 📢 Business promotions and spam links
 
 Standard bots only catch **text** keywords. Vendors learned to **send images instead** — a photo of a price list, a remittance ad, a product catalog — because bots can't read images.
@@ -227,6 +227,6 @@ MIT © [black-hak](https://github.com/black-hak)
 
 **⭐ If this helps your community, please star the repo!**
 
-*Built with ❤️ for Venezuelan communities in Brazil — and every community tired of spam.*
+*Built with ❤️ for every community tired of spam.*
 
 </div>
