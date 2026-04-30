@@ -1,0 +1,3 @@
+const SPAM=['mercadolivre.com','mercadolibre.com','shopee.com','olx.com','enjoei.com.br','americanas.com','submarino.com','casasbahia.com','magazineluiza.com','magalu.com','netshoes.com','dafiti.com','amazon.com','ebay.com','aliexpress.com','shein.com','wish.com','sendwave.com','remitly.com','westernunion.com','moneygram.com','wise.com','xoom.com','paypal.com','despegar.com','decolar.com','kayak.com','latamairlines.com','avianca.com','booking.com','airbnb.com','bit.ly','tinyurl.com','goo.gl','ow.ly','cutt.ly','short.io'];
+export function detectarURLComercial(t){const l=t.toLowerCase();for(const d of SPAM)if(l.includes(d))return{detectado:true,dominio:d};return{detectado:false};}
+export function tieneURL(t){return /https?:\/\//.test(t)||/www\./.test(t);}
