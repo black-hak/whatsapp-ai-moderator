@@ -1,0 +1,20 @@
+{
+  "name": "bot-admin-whatsapp",
+  "version": "1.0.0",
+  "description": "Bot Administrador Inteligente para Grupos de WhatsApp",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "better-sqlite3": "^11.10.0",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.7"
+  }
+}
