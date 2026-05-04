@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🤖 WhatsApp AI Moderator
@@ -231,5 +230,3 @@ MIT © [black-hak](https://github.com/black-hak)
 *Built with ❤️ for every community tired of spam.*
 
 </div>
-
-<!-- Edited via Perplexity AI – 2026-05-04 -->
