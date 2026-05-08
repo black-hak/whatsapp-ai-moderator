@@ -9,7 +9,7 @@
 [![Baileys](https://img.shields.io/badge/Baileys-WA%20Web%20API-25D366?style=flat-square&logo=whatsapp)](https://github.com/WhiskeySockets/Baileys)
 [![AI Powered](https://img.shields.io/badge/AI-LLaMA%203.3%20%2B%20Qwen%20Vision-blueviolet?style=flat-square)](https://openrouter.ai)
 
-> Built for Venezuelan and Latin American diaspora WhatsApp communities — but works for **any group** that needs to stay vendor-free.
+> Built for WhatsApp communities — but works for **any group** that needs to stay vendor-free.
 
 </div>
 
@@ -227,6 +227,6 @@ MIT © [black-hak](https://github.com/black-hak)
 
 **⭐ If this helps your community, please star the repo!**
 
-*Built with ❤️ for every community tired of spam.*
+*Built with ⌚ for every community tired of spam.*
 
 </div>
